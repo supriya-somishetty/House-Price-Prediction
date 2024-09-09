@@ -1,8 +1,13 @@
 **Name:** SOMISHETTY SUPRIYA
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID**: CT04DS6799
+
 **Domain:** MACHINE LEARNING
+
 **Duration:** August to September 2024
+
 **Mentor:** Neela Santosh Kumar
 
 # House-Price-Prediction
