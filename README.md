@@ -1,3 +1,10 @@
+**Name:** SOMISHETTY SUPRIYA
+**Company:** CODTECH IT SOLUTIONS
+**ID**: CT04DS6799
+**Domain:** MACHINE LEARNING
+**Duration:** August to September 2024
+**Mentor:** Neela Santosh Kumar
+
 # House-Price-Prediction
 The "House Price Prediction" project focuses on predicting housing prices using machine learning techniques. By leveraging popular Python libraries such as NumPy, Pandas, Scikit-learn (sklearn), Matplotlib, Seaborn this project provides an end-to-end solution for accurate price estimation.
 ## Overview of the Project
